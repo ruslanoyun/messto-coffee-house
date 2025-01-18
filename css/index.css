@@ -99,7 +99,7 @@ nav a:hover {
 }
 
 .item-info .milliliters {
-  font-weight: 600;
+  font-size: 0.9rem;
   margin-top: 8px;
   color: #494646;
 }
