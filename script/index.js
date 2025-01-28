@@ -5,7 +5,7 @@ const data = [
       {
         title: 'Глазунья c сосисками или беконом',
         description:
-          '2 яайца, помидоры, огурцы, лист салата, хлеб c творожным сыром',
+          '2 яйца, помидоры, огурцы, лист салата, хлеб c творожным сыром',
         price: '370p',
         image: 'images/food.jpg',
       },
@@ -98,7 +98,7 @@ const data = [
         image: 'images/food.jpg',
       },
       {
-        title: 'Чай с чаебрецом',
+        title: 'Чай с чабрецом',
         milliliters: '100 | 600мл',
         price: '130 | 170p',
         image: 'images/food.jpg',
